@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+## Olá pessoal👋
+# 💫 Sobre mim:
 🔭 Atualmente estou trabalhando em<br>Desenvolvimento de aplicações robustas e escaláveis usando C# e .NET, com foco em APIs, integração de sistemas e modelagem eficiente de dados.<br><br>👯 Procuro colaborar em<br>Projetos open source ou soluções inovadoras que envolvam .NET, C# ou aplicações multiplataforma usando ferramentas como Unity ou MAUI.<br><br>🤝 Procuro ajuda com<br>Aprimorar minhas habilidades em recursos avançados do .NET, otimização de performance e aplicações nativas na nuvem usando plataformas como Azure.<br><br>🌱 Atualmente estou aprendendo<br>As novidades do .NET 8, C# 12, e explorando padrões arquiteturais como microsserviços e design orientado a domínio (DDD).<br><br>💬 Pergunte-me sobre<br>Boas práticas em C#, criação de APIs RESTful, estratégias de integração de sistemas ou qualquer coisa relacionada ao desenvolvimento com .NET.<br><br>⚡ Curiosidade divertida<br>O C# quase foi chamado de "Cool", mas a Microsoft mudou para refletir a conexão com o C++. E por mais que o C# seja minha "zona de conforto", estou sempre explorando novas tecnologias!<br><br>
 
 
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ianfontesn&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ianfontesn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianfontesn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ianfontesn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ianfontesn&icon=0&color=0)](https://visitcount.itsvg.in)
